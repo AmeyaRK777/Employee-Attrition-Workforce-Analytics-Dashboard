@@ -29,7 +29,8 @@ Tools Used
 ### Executive Summary
 
 
-<img width="866" height="486" alt="Screenshot 2026-07-08 123414" src="https://github.com/user-attachments/assets/4096a3cf-460e-47e6-a2c6-f57008e95be7" />
+<img width="868" height="486" alt="Screenshot 2026-07-13 140306" src="https://github.com/user-attachments/assets/ca5053b9-7714-4abc-9e43-2ab1b4664663" />
+
 
 The dashboard tracks the following key performance indicators (KPIs):
 
