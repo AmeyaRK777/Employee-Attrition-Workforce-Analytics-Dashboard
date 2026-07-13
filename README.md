@@ -50,7 +50,7 @@ These visualizations enable HR professionals to quickly identify high-risk emplo
 
 ### Employee Work-Life Balance Analysis
 
-<img width="862" height="491" alt="Screenshot 2026-07-08 123605" src="https://github.com/user-attachments/assets/34f073fc-71b7-45ff-986a-a6191ed1d119" />
+<img width="868" height="486" alt="Screenshot 2026-07-13 140306" src="https://github.com/user-attachments/assets/a478c455-dfae-4af0-a1fc-ce6d06458716" />
 
 Employee well-being plays a crucial role in job satisfaction, productivity, and long-term retention. This page focuses on understanding the distribution of employees across different work-life balance categories and examining how attrition varies within each group.
 
